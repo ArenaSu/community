@@ -9,7 +9,7 @@ This page contains a list of organizations who are using KubeVela in production 
 | Organization | Status | More Information
 | ------------ | ---------| ---------------|
 | [Alibaba Cloud](https://www.aliyun.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | [ACK ONE multi-cluster delivery](https://mp.weixin.qq.com/s/7-2TjyOW1-XpPV0CftFXig) |
-| [NAPPTIVE](https://napptive.com) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | [docs](https://docs.napptive.com/) |
+| [NAPPTIVE](https://napptive.com) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
 | [4Paradigm](https://www.4paradigm.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
 | [Shein](https://www.shein.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
 | [YOUZAN](https://www.youzan.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
@@ -26,6 +26,7 @@ This page contains a list of organizations who are using KubeVela in production 
 | [小鹏汽车](https://www.xiaopeng.com/) ([XPeng Motors](https://heyxpeng.com/))| ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
 | [招商银行/China Merchants Bank](https://www.cmbchina.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
 | [HUOLALA](https://www.huolala.cn/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
+| [亚信科技](https://www.asiainfo.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
 | [Springer Nature](https://www.springernature.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | | 
 | [lilithgame](https://www.lilith.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | | 
 | [灵雀云](https://www.alauda.cn/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
